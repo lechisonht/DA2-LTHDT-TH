@@ -1,0 +1,6 @@
+﻿  gameManager.cpp
+D:\Nam 2\Ki 1\OOP\DA2\CT\Project1\gameManager.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Nam 2\Ki 1\OOP\DA2\CT\Project1\gameManager.cpp(183,18): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\Nam 2\Ki 1\OOP\DA2\CT\Project1\gameManager.cpp(184,22): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\Nam 2\Ki 1\OOP\DA2\CT\Project1\gameManager.cpp(229,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project1.vcxproj -> D:\Nam 2\Ki 1\OOP\DA2\CT\Debug\Project1.exe

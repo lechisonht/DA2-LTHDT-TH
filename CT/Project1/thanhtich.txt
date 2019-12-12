@@ -1,0 +1,6 @@
+minh.txt
+PL1: 1
+PL2: 2
+son.txt
+PL1: 1
+PL2: 0
