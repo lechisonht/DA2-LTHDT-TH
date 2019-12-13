@@ -8,7 +8,7 @@ int main()
 	if(i==1)
 	{
 		system("cls");
-		gameManager Game(24, 25);
+		gameManager Game(20, 25);
 		Game.Run();
 		return 0; 
 	}
@@ -17,7 +17,7 @@ int main()
 		string s;
 		cout << "Nhap ten: "; cin >> s;
 		system("cls");
-		gameManager Game(s, 24, 25);
+		gameManager Game(s, 20, 25);
 		Game.Run();
 		return 0;
 	}
